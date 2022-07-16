@@ -2,8 +2,6 @@
 
 Striping CDN IPs from a list of IP Addresses
 
-Built based on the [projectdiscovery/cdncheck](github.com/projectdiscovery/cdncheck) library.
-
 ## Install
 
 ```shell
